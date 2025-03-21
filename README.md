@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Furkan Demircan
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python-Opencv Image Processing
-- 📫 How to reach me furkanndemiircan@gmail.com
-- 
+- 📫 How to reach me
+  
+  furkanndemiircan@gmail.com
+  
   https://www.linkedin.com/in/furkan-demircan-80a5222b9/
 
 
